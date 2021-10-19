@@ -1,6 +1,6 @@
-print("Hello");
-print("Hello suka");
-print("Hello world");
-print("Hello motherfucker")
-print("Glad to see you")
-print("Hi dude")
+print("Hello;");
+print("Hello suka;");
+print("Hello world;");
+print("Hello motherfucker;")
+print("Glad to see you;")
+print("Hi dude;")
